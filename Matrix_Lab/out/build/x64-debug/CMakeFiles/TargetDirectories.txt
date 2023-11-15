@@ -1,0 +1,14 @@
+C:/Users/Gardi/Desktop/Matrix_Lab/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gardi/Desktop/Matrix_Lab/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Gardi/Desktop/Matrix_Lab/out/build/x64-debug/vector/CMakeFiles/vector.dir
+C:/Users/Gardi/Desktop/Matrix_Lab/out/build/x64-debug/vector/CMakeFiles/edit_cache.dir
+C:/Users/Gardi/Desktop/Matrix_Lab/out/build/x64-debug/vector/CMakeFiles/rebuild_cache.dir
+C:/Users/Gardi/Desktop/Matrix_Lab/out/build/x64-debug/vectorlib/CMakeFiles/vectorlib.dir
+C:/Users/Gardi/Desktop/Matrix_Lab/out/build/x64-debug/vectorlib/CMakeFiles/edit_cache.dir
+C:/Users/Gardi/Desktop/Matrix_Lab/out/build/x64-debug/vectorlib/CMakeFiles/rebuild_cache.dir
+C:/Users/Gardi/Desktop/Matrix_Lab/out/build/x64-debug/test/CMakeFiles/test.dir
+C:/Users/Gardi/Desktop/Matrix_Lab/out/build/x64-debug/test/CMakeFiles/edit_cache.dir
+C:/Users/Gardi/Desktop/Matrix_Lab/out/build/x64-debug/test/CMakeFiles/rebuild_cache.dir
+C:/Users/Gardi/Desktop/Matrix_Lab/out/build/x64-debug/gtest/CMakeFiles/gtest.dir
+C:/Users/Gardi/Desktop/Matrix_Lab/out/build/x64-debug/gtest/CMakeFiles/edit_cache.dir
+C:/Users/Gardi/Desktop/Matrix_Lab/out/build/x64-debug/gtest/CMakeFiles/rebuild_cache.dir
